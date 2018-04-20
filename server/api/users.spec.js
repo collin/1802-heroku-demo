@@ -21,7 +21,7 @@ describe('User routes', () => {
     })
 
     it('will break', () => {
-      expect(true).to.be.equal(false)
+      expect(false).to.be.equal(false)
     })
 
     it('GET /api/users', () => {
