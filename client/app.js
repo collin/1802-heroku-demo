@@ -7,6 +7,7 @@ import Routes from './routes'
 const App = () => {
   return (
     <div>
+      <h1>CONTINUOUS INTEGRATION ROCKS</h1>
       <Navbar />
       <Routes />
     </div>
